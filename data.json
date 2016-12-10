@@ -1,0 +1,373 @@
+{
+  "planets": [
+    {
+      "name": "Polis Massa",
+      "size": 10000,
+      "orbital_period": 590,
+      "climate": "Artificial Temperate",
+      "terrain": "Airless Asteriod",
+      "population": 1000000,
+      "rotation_period": 24
+    },
+    {
+      "name": "Utapau",
+      "size": 12900,
+      "orbital_period": 351,
+      "climate": "Arid, Temperate, Windy",
+      "terrain": "Canyons, Savannah, Scrublands, Sinkholes",
+      "population": 95000000,
+      "rotation_period": 27
+    },
+    {
+      "name": "Dagobah",
+      "size": 8900,
+      "orbital_period": 341,
+      "climate": "Murky",
+      "terrain": "Jungles, Swamps",
+      "population": "Unknown",
+      "rotation_period": 23
+    },
+    {
+      "name": "Hoth",
+      "size": 7200,
+      "orbital_period": 349,
+      "climate": "Frozen",
+      "terrain": "Ice Caves, Mountain Ranges, Tundra",
+      "population": "Unknown",
+      "rotation_period": 23
+    },
+    {
+      "name": "Bespin",
+      "size": 23600,
+      "orbital_period": 5110,
+      "climate": "Temperate",
+      "terrain": "Gas Giant",
+      "population": 6000000,
+      "rotation_period": 12
+    },
+    {
+      "name": "Eriadu",
+      "size": 13490,
+      "orbital_period": 360,
+      "climate": "Polluted",
+      "terrain": "Cityscape",
+      "population": 22000000000,
+      "rotation_period": 24
+    },
+    {
+      "name": "Cerea",
+      "size": 10000,
+      "orbital_period": 386,
+      "climate": "Temperate",
+      "terrain": "Verdant",
+      "population": 450000000,
+      "rotation_period": 27
+    },
+    {
+      "name": "Haruun Kal",
+      "size": 10120,
+      "orbital_period": 383,
+      "climate": "Temperate",
+      "terrain": "Plateaus, Toxic Cloud Sea, Volcanoes",
+      "population": 705300,
+      "rotation_period": 25
+    },
+    {
+      "name": "Malastare",
+      "size": 18880,
+      "orbital_period": 201,
+      "climate": "Arid, Temperate, Tropical",
+      "terrain": "Deserts, Jungles, Mountains, Swamps",
+      "population": 22000000000,
+      "rotation_period": 24
+    },
+    {
+      "name": "Sullust",
+      "size": 12780,
+      "orbital_period": 263,
+      "climate": "Superheated",
+      "terrain": "Mountains, Rocky Deserts, Volcanoes",
+      "population": 18500000000,
+      "rotation_period": 20
+    },
+    {
+      "name": "Iktotch",
+      "size": 10000,
+      "orbital_period": 481,
+      "climate": "Arid, Windy",
+      "terrain": "Rocky",
+      "population": "Unknown",
+      "rotation_period": 22
+    },
+    {
+      "name": "Dorin",
+      "size": 13400,
+      "orbital_period": 409,
+      "climate": "Temperate",
+      "terrain": "Unknown",
+      "population": "Unknown",
+      "rotation_period": 22
+    },
+    {
+      "name": "Champala",
+      "size": 10000,
+      "orbital_period": 318,
+      "climate": "Temperate",
+      "terrain": "Oceans, Rainforests, Plateaus",
+      "population": 3500000000,
+      "rotation_period": 27
+    },
+    {
+      "name": "Mirial",
+      "size": 10000,
+      "orbital_period": "Unknown",
+      "climate": "Unknown",
+      "terrain": "Deserts",
+      "population": "Unknown",
+      "rotation_period": 24
+    },
+    {
+      "name": "Alderaan",
+      "size": 12500,
+      "orbital_period": 364,
+      "climate": "Temperate",
+      "terrain": "Grasslands, Mountains",
+      "population": 2000000000,
+      "rotation_period": 24
+    },
+    {
+      "name": "Yavin IV",
+      "size": 10200,
+      "orbital_period": 4818,
+      "climate": "Temperate, Tropical",
+      "terrain": "Jungles, Rainforests",
+      "population": 1000,
+      "rotation_period": 24
+    },
+    {
+      "name": "Coruscant",
+      "size": 12240,
+      "orbital_period": 368,
+      "climate": "Temperate",
+      "terrain": "Cityscape, Mountains",
+      "population": 1000000000000,
+      "rotation_period": 24
+    },
+    {
+      "name": "Kamino",
+      "size": 19720,
+      "orbital_period": 463,
+      "climate": "Temperate",
+      "terrain": "Oceans",
+      "population": 1000000000,
+      "rotation_period": 24
+    },
+    {
+      "name": "Geonesis",
+      "size": 11370,
+      "orbital_period": 256,
+      "climate": "Arid, Temperate",
+      "terrain": "Barren, Deserts, Mountains, Rocky",
+      "population": 100000000000,
+      "rotation_period": 30
+    },
+    {
+      "name": "Rodia",
+      "size": 7549,
+      "orbital_period": 305,
+      "climate": "Hot",
+      "terrain": "Jungles, Oceans, Swamps, Urban",
+      "population": 1300000000,
+      "rotation_period": 29
+    },
+    {
+      "name": "Ojom",
+      "size": 10000,
+      "orbital_period": "Unknown",
+      "climate": "Frigid",
+      "terrain": "Glaciers, Oceans",
+      "population": 500000000,
+      "rotation_period": 24
+    },
+    {
+      "name": "Corellia",
+      "size": 11000,
+      "orbital_period": 329,
+      "climate": "Temperate",
+      "terrain": "Forests, Hills, Plains, Urban",
+      "population": 3000000000,
+      "rotation_period": 25
+    },
+    {
+      "name": "Cato Neimoidia",
+      "size": 10000,
+      "orbital_period": 278,
+      "climate": "Moist, Temperate",
+      "terrain": "Fields, Forests, Mountains, Rock Arches",
+      "population": 10000000,
+      "rotation_period": 25
+    },
+    {
+      "name": "Vulpter",
+      "size": 14900,
+      "orbital_period": 391,
+      "climate": "Arctic, Temperate",
+      "terrain": "Barren, Urban",
+      "population": 421000000,
+      "rotation_period": 22
+    },
+    {
+      "name": "Skako",
+      "size": 10000,
+      "orbital_period": 384,
+      "climate": "Temperate",
+      "terrain": "Vines, Urban",
+      "population": 500000000000,
+      "rotation_period": 27
+    },
+    {
+      "name": "Chandrila",
+      "size": 13500,
+      "orbital_period": 368,
+      "climate": "Temperate",
+      "terrain": "Forests, Plains",
+      "population": 1200000000,
+      "rotation_period": 20
+    },
+    {
+      "name": "Glee Anselm",
+      "size": 15600,
+      "orbital_period": 206,
+      "climate": "Temperate, Tropical",
+      "terrain": "Islands, Lakes, Seas, Swamps",
+      "population": 500000000,
+      "rotation_period": 33
+    },
+    {
+      "name": "Shili",
+      "size": 10000,
+      "orbital_period": "Unknown",
+      "climate": "Temperate",
+      "terrain": "Cities, Plains, Savannas, Seas",
+      "population": "Unknown",
+      "rotation_period": 24
+    },
+    {
+      "name": "Iridonia",
+      "size": 10000,
+      "orbital_period": 413,
+      "climate": "Unknown",
+      "terrain": "Acid Pools, Rocky Canyons",
+      "population": "Unknown",
+      "rotation_period": 29
+    },
+    {
+      "name": "Ord Mantell",
+      "size": 14050,
+      "orbital_period": 334,
+      "climate": "Temperate",
+      "terrain": "Mesas, Plains, Seas",
+      "population": 4000000000,
+      "rotation_period": 26
+    },
+    {
+      "name": "Kashyyyk",
+      "size": 12765,
+      "orbital_period": 381,
+      "climate": "Tropical",
+      "terrain": "Forests, Jungles, Lakes, Rivers",
+      "population": 45000000,
+      "rotation_period": 26
+    },
+    {
+      "name": "Trandosha",
+      "size": 10000,
+      "orbital_period": 371,
+      "climate": "Arid",
+      "terrain": "Deserts, Grasslands, Mountains, Seas",
+      "population": 42000,
+      "rotation_period": 25
+    },
+    {
+      "name": "Kalee",
+      "size": 13850,
+      "orbital_period": 378,
+      "climate": "Arid, Temperate, Tropical",
+      "terrain": "Canyons, Cliffs, Rainforests, Seas",
+      "population": 4000000000,
+      "rotation_period": 23
+    },
+    {
+      "name": "Mygeeto",
+      "size": 10088,
+      "orbital_period": 167,
+      "climate": "Frigid",
+      "terrain": "Glaciers, Ice Canyons, Mountains",
+      "population": 19000000,
+      "rotation_period": 12
+    },
+    {
+      "name": "Muunilinst",
+      "size": 13800,
+      "orbital_period": 412,
+      "climate": "Temperate",
+      "terrain": "Forests, Hills, Mountains, Plains",
+      "population": 5000000000,
+      "rotation_period": 28
+    },
+    {
+      "name": "Dantooine",
+      "size": 9830,
+      "orbital_period": 378,
+      "climate": "Temperate",
+      "terrain": "Grasslands, Mountains, Oceans, Savannas",
+      "population": 1000,
+      "rotation_period": 25
+    },
+    {
+      "name": "Concord Dawn",
+      "size": 10000,
+      "orbital_period": "Unknown",
+      "climate": "Unknown",
+      "terrain": "Deserts, Forests, Jungles",
+      "population": "Unknown",
+      "rotation_period": 24
+    },
+    {
+      "name": "Dathomir",
+      "size": 10480,
+      "orbital_period": 491,
+      "climate": "Temperate",
+      "terrain": "Deserts, Forests, Savannas",
+      "population": "5200",
+      "rotation_period": 24
+    },
+    {
+      "name": "Tatooine",
+      "size": 10465,
+      "orbital_period": 304,
+      "climate": "Arid, Hot",
+      "terrain": "Canyons, Deserts, Rocky Bluffs",
+      "population": 200000,
+      "rotation_period": "Unknown"
+    },
+    {
+      "name": "Mustafar",
+      "size": "4200",
+      "orbital_period": 412,
+      "climate": "Searing",
+      "terrain": "Lava Rivers, Volcanoes",
+      "population": 20000,
+      "rotation_period": "Unknown"
+    },
+    {
+      "name": "Saleucami",
+      "size": 14920,
+      "orbital_period": 392,
+      "climate": "Hot",
+      "terrain": "Caves, Deserts, Mountains, Volcanoes",
+      "population": 1400000000,
+      "rotation_period": 26
+    }
+  ]
+}
